@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	/* background: linear-gradient(to bottom, #2b2d42, #41e2ba); */
+	background: #000500;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	color: #93b5c6;
+	text-align: center;
+	font-size: large;
+	text-align: center;
+	letter-spacing: 2px;
+	border-top: white solid 0.5px;
+}
+p {
+	padding-top: 10px;
+}
